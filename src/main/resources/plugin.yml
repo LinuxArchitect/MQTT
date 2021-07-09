@@ -1,0 +1,8 @@
+name: MQTT
+version: ${project.version}
+main: me.cowprotector.MQTT.MQTTPlugin
+api-version: 1.17
+authors: [ LinuxArchitect ]
+description: A spigot plugin to implement the Eclipse Paho Java Client
+commands:
+  mqtt:
